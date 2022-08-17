@@ -20,7 +20,7 @@ const sixth = 'this is my first commit';
 const sixth = 'this is my first commit';
 const sixth = 'this is my first commit';
 const sixth = 'this is my first commit';
-const sixth = 'this is my first commit';
+const sixth = 'this is my first commit'; 
 
 
 
